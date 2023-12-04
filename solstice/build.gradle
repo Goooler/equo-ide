@@ -39,7 +39,7 @@ tasks.named('processResources') {
 	}
 }
 
-String VER_SLF4J = '1.7.36'
+String VER_SLF4J = '2.0.9'
 dependencies {
 	api "org.slf4j:slf4j-api:$VER_SLF4J"
 	api "com.diffplug.durian:durian-swt.os:$VER_DURIAN_SWT"
