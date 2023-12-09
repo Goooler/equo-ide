@@ -5,7 +5,7 @@ pluginManagement {
 	}
 	plugins {
 		// https://github.com/radarsh/gradle-test-logger-plugin/blob/develop/CHANGELOG.md
-		id 'com.adarshr.test-logger'                    version '3.2.0'
+		id 'com.adarshr.test-logger'                    version '4.0.0'
 		// https://github.com/diffplug/blowdryer/blob/main/CHANGELOG.md
 		id 'com.diffplug.blowdryer'                     version '1.7.0'
 		id 'com.diffplug.blowdryerSetup'                version '1.7.0'
